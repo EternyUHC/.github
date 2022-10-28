@@ -191,3 +191,14 @@
 - __Description__ : Plugin Deadline supportant le démarrage des serveurs à la demande
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 - __Développeurs__ : Vengelis_
+
+
+
+
+## 💻 Features Projects :
+
+### EternyTwitch :
+- __Etat__ : NOT STARTED
+- __Description__ : Plugin link minecraft et twitch
+- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+- __Développeurs__ : TBD
