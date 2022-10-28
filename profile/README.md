@@ -177,19 +177,19 @@
 ### McServerDeadlineSubmitter :
 - __Etat__ : PROD
 - __Description__ : Submitter Deadline de hosts
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 - __Développeurs__ : Vengelis_
 
 ### McServerPipeline :
 - __Etat__ : PROD
 - __Description__ : Système de lancement de serveurs sur les slaves Deadline
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 - __Développeurs__ : Vengelis_
 
 ### McServer :
 - __Etat__ : PROD
 - __Description__ : Plugin Deadline supportant le démarrage des serveurs à la demande
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 - __Développeurs__ : Vengelis_
 
 
