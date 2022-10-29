@@ -26,7 +26,7 @@
 - __Description__ : Cet outil intègre des interfaces graphiques afin d'appliquer des sanctions génériques ainsi que divers outils pour fluidifier et aider le travail de la modération.
 - __Dépendances__ : Lunatrix
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- Développeurs__ : TBD
+- Développeurs__ : Erusel
 
 ### ETH_Moderation_ABANDON : 
 - __Etat__ : DEPRECATED
@@ -101,7 +101,7 @@
 - __Etat__ : NOT STARTED
 - __Description__ : Plugin Core Minigames.
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : TBD
+- __Développeurs__ : Erusel / Fery
 
 ### SM :
 - __Etat__ : INDEV
