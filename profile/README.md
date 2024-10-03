@@ -1,145 +1,56 @@
 # 🔧 Repository officiel d'Eterny 👋
 
+## Crédits :
+- __CTO Actuel__ [@Curiosow](https://github.com/Curiosow)
+- __CEO Actuel & Lead Sys.__ [@SiriHack](https://github.com/SiriHack)
+- __Ancien CTO__ [@Vengelis](https://github.com/Vengelis)
+- __Ancien Lead Dev__ [@KiwiTerra](https://github.com/KiwiTerra)
 
 ## 💻 Core Projects :
 
 ### Lunatrix : 
 - __Etat__ : PROD
-- __Description__ : Plugin pipeline API générale. Système permettant l'interconnectivité des serveurs, la gestion des datas des joueurs, plannings et sanctions. Plugin successeur de PipelineVGL.
-- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
+- __Description__ : Plugin pipeline API générale. Système permettant l'interconnectivité des serveurs, la gestion des datas des joueurs, plannings et sanctions.
+- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg"  alt="redis" width="30" height="30"/>
+- __Développeurs__ : [@Vengelis](https://github.com/Vengelis), [@KiwiTerra](https://github.com/KiwiTerra), [@Curiosow](https://github.com/Curiosow), [@SiriHack](https://github.com/SiriHack)
 
-### PipelineVGL : 
-- __Etat__ : REMOVED (LEGACY)
-- __Description__ : Premier plugin pipeline.
-- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-### T.A.R.S. :
-- __Etat__ : PREPROD
-- __Description__ : Plugin de surveillance et de modération autonome
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis_, Salers
-
-### EternyModeration : 
-- __Etat__ : DEV
-- __Description__ : Cet outil intègre des interfaces graphiques afin d'appliquer des sanctions génériques ainsi que divers outils pour fluidifier et aider le travail de la modération.
-- __Dépendances__ : Lunatrix
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- Développeurs__ : ---
-
-### ETH_Moderation_ABANDON : 
-- __Etat__ : DEPRECATED
-- __Description__ : Vieux projet de plugin de modération. Quelques éléments pouvant être recyclés.
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-- __Développeurs__ : ByWoX_
-
-### UWACore :
-- __Etat__ : INDEV
-- __Description__ : Plugin de génération de terrain customs et vanilla pour serveur type UHC avec exclusion de biomes
+### UWA V3 :
+- __Etat__ : PROD
+- __Description__ : Plugin de génération de terrain customs et vanilla pour serveur type UHC avec exclusion de biomes, insertion de schematics customs.
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
-- __Développeurs__ : Vengelis_
-
-### UWADeadline :
-- __Etat__ : NOT STARTED
-- __Description__ : Plugin connecteur UWA à Deadline
-- __Dépendances__ : UWACore
-- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
+- __Développeurs__ : [@Vengelis](https://github.com/Vengelis)
 
 ### Website :
 - __Etat__ : PROD
 - __Description__ : Site web d'Eterny
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php8" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-- __Développeurs__ : Hawks
-
-### PipelineVGL_LobbyConnector : 
-- __Etat__ : REMOVED (LEGACY)
-- __Description__ : Plugin pour connecter le lobby à des instances slaves hors HOST
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
+- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>
+- __Développeurs__ : [@KiwiTerra](https://github.com/KiwiTerra)
 
 
 ## 💻 UHC Projects :
 
-### EternyUhcCore : 
-- __Etat__ : PREPROD
-- __Description__ : Plugin Core UHC. Successeur du EternyUhc_Legacy.
+### SerenityCore : 
+- __Etat__ : PROD
+- __Description__ : Plugin Core UHC.
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Kiwiterra
-
-### UHCPlugin_Legacy :
-- __Etat__ : PROD (LEGACY)
-- __Description__ : Plugin d'host fait par l'ancien fondateur GooDy.
-- __Technologies__ : [Skript]
-- __Développeurs__ : GooDy
-
-### PipelineLG : 
-- __Etat__ : PROD (LEGACY)
-- __Description__ : Connecteur du plugin de LG au plugin de Lunatrix
-- __Dépendances__ : WhereWolf_Plugin, Lunatrix
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis
-
-### UWA-Type-V-Generator :
-- __Etat__ : PAUSED
-- __Description__ : Plugin de génération de terrain pour monde UHC remastoriséG
-- __Dépendances__ : UWACore
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-### UWA-LG-Generator :
-- __Etat__ : NOT STARTED
-- __Description__ : Plugin de génération de terrain pour monde LG
-- __Dépendances__ : UWACore
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : TBD
-
-
+- __Développeurs__ : [@KiwiTerra](https://github.com/KiwiTerra), [@Curiosow](https://github.com/Curiosow)
 
 
 ## 💻 Minigames Projects :
-
-### EternyMiniGameCore :
-- __Etat__ : NOT STARTED
-- __Description__ : Plugin Core Minigames.
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Erusel / Fery
 
 ### SM :
 - __Etat__ : PROD
 - __Description__ : Minijeu SlenderMan
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis_ / Hawks
+- __Développeurs__ : [@Vengelis](https://github.com/Vengelis)
 
 
 
 
 ## 🌱 Events Projects :
 
-### FightForEterny :
-- __Etat__ : NOT STARTED
-- __Description__ : Plugin FFS version Eterny
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : FantomKill
+### NO PROJECTS.
 
-
-
-
-## 💻 Lobby Projects :
-
-### EternyJump : 
-- __Etat__ : PROD
-- __Description__ : Plugin pour le jump des lobbys.
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-### EternyLobby : 
-- __Etat__ : PROD
-- __Description__ : Plugin de customisation du lobby par la communauté
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
 
 
 ## 💻 Mumble Projects :
@@ -148,32 +59,7 @@
 - __Etat__ : PROD
 - __Description__ : Plugin exploitant l'API REST pour définir l'état du joueur sur le mumble
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Vengelis_ / Kiwiterra
-
-### Artemis :
-- __Etat__ : PAUSED
-- __Description__ : SECRET PROJECT
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-
-
-
-## 💻 Discord Projects :
-
-### EternyHA :
-- __Etat__ : NOT STARTED
-- __Description__ : Bot de supervision IT
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-### WebsiteLink : 
-- __Etat__ : DEV
-- __Description__ : Bot pour link le discord, minecraft et le siteweb ensemble
-- __Dépendances__ : Website
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : Hawks / Vengelis_
-
+- __Développeurs__ : [@Vengelis](https://github.com/Vengelis), [@KiwiTerra](https://github.com/KiwiTerra), [@Curiosow](https://github.com/Curiosow)
 
 
 ## Infrastructure Projects :
@@ -182,33 +68,17 @@
 - __Etat__ : PROD
 - __Description__ : API du serveur Mumble
 - __Technologies__ :  <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/mumble.png" alt="deadline aws" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
+- __Développeurs__ : [@Vengelis](https://github.com/Vengelis)
 
 ### McServerDeadlineSubmitter :
 - __Etat__ : PROD
 - __Description__ : Submitter Deadline de hosts
 - __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-### McServerPipeline :
-- __Etat__ : PROD
-- __Description__ : Système de lancement de serveurs sur les slaves Deadline
-- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
-### McServer :
-- __Etat__ : PROD
-- __Description__ : Plugin Deadline supportant le démarrage des serveurs à la demande
-- __Technologies__ : <img src="https://raw.githubusercontent.com/Vengelis/Vengelis/master/deadline.png" alt="deadline aws" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-- __Développeurs__ : Vengelis_
-
+- __Développeurs__ : [@Vengelis](https://github.com/Vengelis)
 
 
 
 ## 💻 Features Projects :
 
-### EternyTwitch :
-- __Etat__ : NOT STARTED
-- __Description__ : Plugin link minecraft et twitch
-- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-- __Développeurs__ : TBD
+
+### NO PROJECTS.
