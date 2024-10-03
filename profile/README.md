@@ -2,7 +2,7 @@
 
 ## Crédits :
 - __CTO Actuel__ [@Curiosow](https://github.com/Curiosow)
-- __CEO Actuel & Lead Sys.__ [@SiriHack](https://github.com/SiriHack)
+- __CEO Actuel & Lead Sys. Admin.__ [@SiriHack](https://github.com/SiriHack)
 - __Ancien CTO__ [@Vengelis](https://github.com/Vengelis)
 - __Ancien Lead Dev__ [@KiwiTerra](https://github.com/KiwiTerra)
 
