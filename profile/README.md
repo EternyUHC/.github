@@ -26,6 +26,11 @@
 - __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>
 - __Développeurs__ : [@KiwiTerra](https://github.com/KiwiTerra)
 
+### Edralix V2 :
+- __Etat__ : PROD
+- __Description__ : Plugin de cosmétiques et lootbox indépendant & link à Lunatrix
+- __Technologies__ : <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
+- __Développeurs__ : [@Curiosow](https://github.com/Curiosow)
 
 ## 💻 UHC Projects :
 
